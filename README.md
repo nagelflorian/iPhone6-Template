@@ -1,5 +1,7 @@
 # iPhone 6 Template
 
+![iPhone 6 Template Overview](https://raw.githubusercontent.com/nagelflorian/iPhone6-Template/screenshots/iPhone6-Template.png)
+
 My personal multi-purpose Illustrator iPhone 6 template free for you to use.
 
 **License:** Of course you can use this template for commercial work. But please do not repurpose the file or any of its elements as your own. It shouldn't be broken apart and used to create similar tools.
