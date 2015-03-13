@@ -12,6 +12,10 @@ The Adobe Illustrator File (CC 2014) includes a well structured library of commo
 ##Getting started
 Before you get started, I recommend having a look at the official [iOS Human Interface Guidelines](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Bars.html#//apple_ref/doc/uid/TP40006556-CH12-SW1) from Apple. For a brief overview on wireframing I recommend [Dana Larson's guide on Wireframing](http://www.dtelepathy.com/blog/design/learning-to-wireframe-10-best-practices).
 
+There are a couple of ways to download this template:
+- [Download the zip](https://github.com/nagelflorian/iPhone6-Template/archive/master.zip)
+- Clone the repo: `git clone https://github.com/nagelflorian/iPhone6-Template.git`
+
 **Some tips when using the template:**
 
 - make sure you always have "Align to Pixel Grid" checked for a pixel-perfect design
